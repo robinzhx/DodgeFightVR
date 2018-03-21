@@ -5,7 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "LeapMotion",
+			"Name": "OpenVRExpansionPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "VRExpansionPlugin",
 			"Enabled": true
 		}
 	]

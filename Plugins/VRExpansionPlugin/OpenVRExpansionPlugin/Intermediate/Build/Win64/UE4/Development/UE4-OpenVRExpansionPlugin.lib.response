@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+"D:\DodgeFightVR\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.cpp.obj"
+"D:\DodgeFightVR\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Intermediate\Build\Win64\UE4\Development\OpenVRExpansionPlugin\Module.OpenVRExpansionPlugin.gen.cpp.obj"
+"D:\DodgeFightVR\Intermediate\Build\Win64\UE4\Development\OpenVRExpansionPlugin\PCLaunch.rc.res"
+/OUT:"D:\DodgeFightVR\Plugins\VRExpansionPlugin\OpenVRExpansionPlugin\Binaries\Win64\UE4-OpenVRExpansionPlugin.lib"
